@@ -63,8 +63,8 @@ All the following experiments were tested on a single GTX2080Ti GPU
 
 |                          | EPE_full | EPE    | ACC05  | ACC10  | Outliers |
 |--------------------------|----------|--------|--------|--------|----------|
-| Flyingthings3D           | 0.1888   | 0.1454 | 0.4187 | 0.6972 | 0.6355   |
-| KITTI(without fine tune) | 0.0947   | ~      | 0.5528 | 0.8257 | 0.4182   |
+| Flyingthings3D           | 0.1634   | 0.1217 | 0.5518 | 0.7767 | 0.5180   |
+| KITTI (without fine tune)| 0.0751   | ~      | 0.7060 | 0.8693 | 0.3277   |
 
 2. Inference time on the test set of Flyingthings3D and KITTI datasets:
 
