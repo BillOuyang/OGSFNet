@@ -1,6 +1,22 @@
 # Occlusion Guided Scene Flow Estimation on 3D Point Clouds
 This is official implementation for the paper "Occlusion Guided Scene Flow Estimation on 3D Point Clouds"
 
+
+## Citation
+If you find our work useful in your research, please cite:
+
+        @InProceedings{Ouyang_2021_CVPR,
+          author    = {Ouyang, Bojun and Raviv, Dan},
+          title     = {Occlusion Guided Scene Flow Estimation on 3D Point Clouds},
+          booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+          month     = {June},
+          year      = {2021},
+          pages     = {2805-2814}
+        }
+
+
+
+
 ## Requirement
 To run our model, please install the following package (we suggest to use the Anaconda environment):
 * Python 3.6+
