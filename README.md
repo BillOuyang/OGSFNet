@@ -87,3 +87,8 @@ All the following experiments were tested on a single GTX2080Ti GPU
 | batch size | Flyingthings3D(min) | KITTI(min) |
 |------------|----------------|-------|
 |      5     |        1.35    | 0.21      |
+
+### Acknowledgement
+In this project we use parts of the official implementations of the following libraries and repositories:
+* [Pointnet2_PyTorch](https://github.com/sshaoshuai/Pointnet2.PyTorch)
+* [PointPWC-Net](https://github.com/DylanWusee/PointPWC)
